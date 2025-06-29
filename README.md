@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I’m Alisha Taylor 👋  
+*Full-Stack Software Engineer | Ruby on Rails & React | Remote-First*
 
-<!--
-**atayl16/atayl16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a full-stack developer who loves building meaningful, maintainable tools that help people get things done. I specialize in Ruby on Rails, React, and JavaScript, with a strong focus on developer experience, product thinking, and clean architecture.
 
-Here are some ideas to get you started:
+🔧 **Tech I use regularly:**  
+Ruby on Rails · React · RSpec · Supabase · PostgreSQL · Netlify · CI/CD · GitHub Actions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎒 **Currently building:**  
+- A private family messaging app (Rails + React)
+- A RuneScape clan tracker (Supabase + Netlify)
+- Islamic educational games for kids
+- A full portfolio site featuring these projects
+
+🧪 **Past wins:**  
+- Built the “Data Wizard” tool at MyTime — still used daily to automate QA test setup  
+- Redesigned donation tooling at Daily Kos for better maintainability and user experience  
+- Launched and sold a Shopify store after reaching product-market fit  
+
+🌐 **Portfolio**: Coming soon!  
+📬 Reach me at inspirebyexample0@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/alisha-t-098785180/) • [GitHub](https://github.com/atayl16)
+
+---
+
+Thanks for stopping by! Feel free to explore my pinned projects below ⬇️
