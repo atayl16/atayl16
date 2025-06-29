@@ -23,4 +23,10 @@ Ruby on Rails · React · RSpec · Supabase · PostgreSQL · Netlify · CI/CD ·
 
 ---
 
+🪄 Still under the hood of it all, I believe in the magic of code.
+
+My first tool was called **Data Wizard**, and the name stuck — because even after years of building, I still get that spark when something *just works*. My home office is a little slice of Middle-earth, filled with scrolls, runestones, and glowing screens. Code is my spellbook, and GitHub is the wand.
+
+If you're building something meaningful (or magical), I'd love to hear about it.
+
 Thanks for stopping by! Feel free to explore my pinned projects below ⬇️
