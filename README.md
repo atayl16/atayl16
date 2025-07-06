@@ -17,9 +17,9 @@ Ruby on Rails · React · RSpec · Supabase · PostgreSQL · Netlify · CI/CD ·
 - Redesigned donation tooling at Daily Kos for better maintainability and user experience  
 - Launched and sold a Shopify store after reaching product-market fit  
 
-🌐 **Portfolio**: Coming soon!  
+🌐 **Portfolio**: [Website](https://atayl16.github.io/portfolio/)
 📬 Reach me at inspirebyexample0@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/alisha-t-098785180/) • [GitHub](https://github.com/atayl16) • [Website](https://atayl16.github.io/portfolio/)
+🔗 [LinkedIn](https://www.linkedin.com/in/alisha-t-098785180/) • [GitHub](https://github.com/atayl16)
 
 ---
 
